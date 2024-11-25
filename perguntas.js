@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é ser pelé?',
+    'Ser pelé é aquele que é fora do comum, que ou quem em virtude de sua qualidade é algo inesplicável, seu valor ou superioridade não pode ser igualado a nada ou a ninguém, assim como Pelé'
 )
 
 criaCartao(
