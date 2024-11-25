@@ -6,14 +6,14 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual a capital do Brasil?',
+    'A capital do Brasil é Brasília '
 )
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é ser um filósofo?',
+    'Filósofo é ser uma pessoa que procura constantemente compreender a realidade do mundo e da condição humana, questionando os valores, conceitos, projetos e comportamentos, sejam eles individuais ou coletivos, pessoais ou sociais. O filósofo questiona e investiga a essência do universo e do homem com profundidade e rigor metodológico.'
 )
 
 criaCartao(
