@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    ' Como se diz bom dia em Inglês?',
+    `bom dia em ingles é HI (Good morning)'
 )
